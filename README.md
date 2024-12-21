@@ -22,3 +22,16 @@ ASUS Prime H510M-E LGA1200 (Intel® 11th/10th Gen) Micro-ATX Motherboard
 
 2x A-Tech 4GB DDR4 2400 MHz UDIMM PC4-19200 (PC4-2400T) CL17 DIMM Non-ECC Desktop RAM Memory Module
 
+### Images
+
+Images of some of the installed components will be provided below:
+
+Motherboard
+![image](https://github.com/user-attachments/assets/99c48e8d-259b-4248-9b32-e1f7ac1566a3)
+
+SSD
+![image](https://github.com/user-attachments/assets/73d05986-d987-4c4f-905c-dd2196decc35)
+
+Power Supply and Wiring
+![image](https://github.com/user-attachments/assets/8da93a28-4e05-48c7-8d08-3cb65e9525b3)
+
