@@ -24,20 +24,20 @@ ASUS Prime H510M-E LGA1200 (Intel® 11th/10th Gen) Micro-ATX Motherboard
 
 ## Images
 
-###Images of some of the installed components will be provided below:
+### Images of some of the installed components will be provided below:
 
-###Motherboard and CPU with Fan
+### Motherboard and CPU with Fan
 
 ![image](https://github.com/user-attachments/assets/99c48e8d-259b-4248-9b32-e1f7ac1566a3)
 
-###SSD
+### SSD
 
 ![image](https://github.com/user-attachments/assets/73d05986-d987-4c4f-905c-dd2196decc35)
 
-###Power Supply and Wiring
+### Power Supply and Wiring
 
 ![image](https://github.com/user-attachments/assets/8da93a28-4e05-48c7-8d08-3cb65e9525b3)
 
-###Completed Computer with Windows 11 Installed and Running
+### Completed Computer with Windows 11 Installed and Running
 
 ![image](https://github.com/user-attachments/assets/f716b950-2888-482b-9ccb-f8e68763414f)
