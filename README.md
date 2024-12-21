@@ -44,9 +44,9 @@ ASUS Prime H510M-E LGA1200 (Intel® 11th/10th Gen) Micro-ATX Motherboard
 
 ## Completed Computer Specs
 
-3.5 GHz Dual-Core Prossecor
-
 Intel Celeron
+
+3.5 GHz Dual-Core Prossecor
 
 8GB DDR4 RAM
 
