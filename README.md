@@ -41,3 +41,13 @@ ASUS Prime H510M-E LGA1200 (Intel® 11th/10th Gen) Micro-ATX Motherboard
 ### Completed Computer with Windows 11 Installed and Running
 
 ![image](https://github.com/user-attachments/assets/f716b950-2888-482b-9ccb-f8e68763414f)
+
+## Completed Computer Specs
+
+3.5 GHz Dual-Core Prossecor
+
+Intel Celeron
+
+8GB DDR4 RAM
+
+360GB SSD Storage
